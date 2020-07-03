@@ -11,4 +11,4 @@ Run com command `yarn install`<br />
 Run on command `yarn start`<br />
 
 ## How to run testes:
-Run on command `yarn test`<br />
+Run on command `yarn test` ou `yarn test --watchAll`<br />
