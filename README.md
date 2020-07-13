@@ -1,5 +1,6 @@
 # PERSONAL PORTFOLIO REPOSITORY - APP - BACK-END
 ## APP FOR PERSONAL PORTFOLIO REPOSITYORY - BACK-END CODE PART
+Simple REACTJS app for testes.
 
 ### Developed at Rocketseat´s GoStack 2020
 Desafio 03: Conceitos do ReactJS | Challenge 03: ReactJS 101
